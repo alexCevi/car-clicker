@@ -1,2 +1,13 @@
-# car-clicker
-Idle clicker game made in react
+Dont fuck this up **Alex**.
+
+## Available Scripts
+
+### `npm start`
+
+### `npm test`
+
+### `npm run build`
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
